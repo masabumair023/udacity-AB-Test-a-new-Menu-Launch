@@ -52,4 +52,6 @@ Apart from trend and seasonality...
 ### Step 4: Analysis and Writeup
 Conduct your A/B analysis and create a short report outlining your results and recommendations.
 
+## Author 
+[@masabumair](https://github.com/masabumair023)
 
